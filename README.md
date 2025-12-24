@@ -6,6 +6,8 @@ This project focuses on solving real-world business problems for a bicycle retai
 The analysis helps stakeholders understand customer value, product performance, revenue dependency, sales trends, and operational efficiency.  
 All questions are designed from a **business decision-making perspective**, not just technical SQL usage.
 
+This project is suitable for showcasing Advanced SQL skills in a Data Analyst / MIS / Business Analyst portfolio.
+
 ---
 
 ## 📊 About the Dataset
@@ -60,3 +62,12 @@ The SQL analysis answers key business questions such as:
 - Segmented customers into one-time vs repeat buyers
 - Flagged data inconsistencies affecting reporting accuracy
 - Classified customers based on purchase frequency
+
+---
+
+## 🧠 Why This Project Matters
+
+- Mirrors real business analytics scenarios
+- Uses industry-relevant SQL techniques
+- Demonstrates problem-solving mindset, not just queries
+- Ideal for GitHub portfolio and resume projects
